@@ -1,0 +1,6 @@
+{
+  "name": "HTML Live Editor",
+  "description": "An Android-based HTML, CSS, and JavaScript editor with real-time editing and live preview capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
